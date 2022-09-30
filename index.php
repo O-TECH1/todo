@@ -136,7 +136,6 @@
    color: #757575 !important;
    font-size: 14px
  }
-
  #list-items {
    padding-left: 20px;
    padding-top: 15px
